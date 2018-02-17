@@ -1,2 +1,2 @@
-import lmwptfy
-lmwptfy.go();
+import lmwptfy as wptfy
+wptfy.go();
