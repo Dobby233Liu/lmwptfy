@@ -1,2 +1,2 @@
-import lmwptfy
-no_console_input("GitHub")
+import lmwptfy as lw
+lw.no_console_input("GitHub")
